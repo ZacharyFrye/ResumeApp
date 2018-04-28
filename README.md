@@ -2,7 +2,7 @@
 
 Simple android app for job applications. Uses single panel master details list.  Details content is on separate window.  These are Master lists:
 
-__1. Contact info_
+__1. Contact info__
 
 Details
 
